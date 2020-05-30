@@ -32,10 +32,10 @@ field 7 : 361 unknown
 
 field 8 : unknown 
 
-field 9 :  657939175 Energy Today that's our consumption ! (on mwh -> to be divided by 60000 to get the Energy Today 
+field 9 :  657939175 Energy Today that's our consumption ! (in mwh -> to be divided by 60000 to get the Energy Today 
 
 field 10 : 7107245804 Total Engery (since when? )
 
 field 11 : unknown 
 
-then the only thing to do is to get the InsightParam, get the field n# 9  and divide it by 60000
+then the only thing to do if you want get the daily consumption of today is to get the InsightParam and then the field n# 9 that you'll by 60000
